@@ -1,5 +1,5 @@
 ---
-- hosta: all
+- hosts: all
   become: yes
   tasks:
   - name: i want to install apache2
